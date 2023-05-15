@@ -16,6 +16,6 @@ func main() {
 
 	//加牛奶的价格
 	nn.MilkTea = xiCha
-	log.Println("芋圆牛奶喜茶惊爆价:", nn.GetPrice())
+	log.Println("牛奶喜茶惊爆价:", nn.GetPrice())
 
 }
